@@ -25,3 +25,7 @@ the terms of program modifying/use:
 
 
 Feature request: just ask for it as a github issue and I will answer the question and implement the feature; not that people would care about my program too much 
+
+
+
+oh yeah, the program is in the repository (it's the exe)
