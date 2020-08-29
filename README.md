@@ -1,4 +1,4 @@
-# macro
+# READ ME
 its a macro of key/mouse done in win api (windows only) - no this is not a efficient program, if someone cares about a feature not here, a request can be made.
 
 This is soley made by me - which I will not identify unless required
