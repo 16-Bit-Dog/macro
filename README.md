@@ -1,7 +1,7 @@
 # READ ME
 
 
-   Copyright [2020] [Ariel Glasroth]
+   Copyright [2020] [Ariel G.]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
