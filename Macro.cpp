@@ -1,4 +1,4 @@
-// Creator: Ariel Glasroth
+// Creator: Ariel G.
 // NOTE: The version here is not completed, so code format (since A.G. is the only one working on the project) may be hard to understand; if others would like to use some of the code base, I will be fine to clean up the code
 // 
 
